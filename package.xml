@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
-<package format="2">
+<package>
   <name>pimouse_ros</name>
-  <version>0.0.0</version>
+  <version>1.0.0</version>
   <description>The pimouse_ros package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
@@ -19,13 +19,13 @@
   <!-- Url tags are optional, but multiple are allowed, one per tag -->
   <!-- Optional attribute type can be: website, bugtracker, or repository -->
   <!-- Example: -->
-  <url type="website">http://github.com/ubuntu1104/raspimouse_bookinfo</url>
+  <url type="website">http://github.com/ubuntu1104/raspimouse_book_info</url>
 
 
   <!-- Author tags are optional, multiple are allowed, one per tag -->
   <!-- Authors do not have to be maintainers, but could be -->
   <!-- Example: -->
-  <author email="ataru8200@yahoo.co.jp">ubuntu1104</author>
+  <!-- <author email="jane.doe@example.com">janedoe</author> -->
 
 
   <!-- The *depend tags are used to specify dependencies -->
